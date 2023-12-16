@@ -1,0 +1,5 @@
+﻿  compact.cpp
+C:\Users\257228\Desktop\C++\Compact\Compact\compact.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Compact\Compact\compact.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Compact\Compact\compact.cpp(54,22): warning C4018: '<': signed/unsigned mismatch
+  Compact.vcxproj -> C:\Users\257228\Desktop\C++\Compact\Debug\Compact.exe
