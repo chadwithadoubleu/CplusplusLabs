@@ -1,0 +1,7 @@
+﻿  kTour1.cpp
+C:\Users\257228\Desktop\C++\Vol2\18\KTour1\KTour1\dice.h(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\257228\Desktop\C++\Vol2\18\KTour1\KTour1\kTour1.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\KTour1\KTour1\kTour1.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\KTour1\KTour1\kTour1.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\KTour1\KTour1\kTour1.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
+  KTour1.vcxproj -> C:\Users\257228\Desktop\C++\Vol2\18\KTour1\Debug\KTour1.exe

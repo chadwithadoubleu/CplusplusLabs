@@ -1,0 +1,7 @@
+﻿  kTour2.cpp
+C:\Users\257228\Desktop\C++\Vol2\18\kTour2\kTour2\kTour2.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\kTour2\kTour2\kTour2.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\kTour2\kTour2\kTour2.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\kTour2\kTour2\kTour2.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\kTour2\kTour2\kTour2.cpp(107,21): warning C4018: '<': signed/unsigned mismatch
+  kTour2.vcxproj -> C:\Users\257228\Desktop\C++\Vol2\18\kTour2\Debug\kTour2.exe

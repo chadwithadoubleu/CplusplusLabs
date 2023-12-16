@@ -1,0 +1,13 @@
+﻿  Life.cpp
+C:\Users\257228\Desktop\C++\Vol2\18\Life\Life\Life.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\Life\Life\Life.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\Life\Life\Life.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\Life\Life\Life.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\Life\Life\Life.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\Life\Life\Life.cpp(63,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\Life\Life\Life.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\Life\Life\Life.cpp(78,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\Life\Life\Life.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\Life\Life\Life.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\18\Life\Life\Life.cpp(97,21): warning C4018: '<': signed/unsigned mismatch
+  Life.vcxproj -> C:\Users\257228\Desktop\C++\Vol2\18\Life\Debug\Life.exe

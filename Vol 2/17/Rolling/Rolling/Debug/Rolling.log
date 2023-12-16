@@ -1,0 +1,3 @@
+﻿  rolling.cpp
+C:\Users\257228\Desktop\C++\Rolling\Rolling\rolling.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rolling.vcxproj -> C:\Users\257228\Desktop\C++\Rolling\Debug\Rolling.exe
