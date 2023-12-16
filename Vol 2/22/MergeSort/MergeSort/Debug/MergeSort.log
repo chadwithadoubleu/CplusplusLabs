@@ -1,0 +1,3 @@
+﻿  mergeSort.cpp
+C:\Users\257228\Desktop\C++\Vol2\22\MergeSort\MergeSort\dice.h(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MergeSort.vcxproj -> C:\Users\257228\Desktop\C++\Vol2\22\MergeSort\Debug\MergeSort.exe

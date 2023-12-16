@@ -1,0 +1,6 @@
+﻿  Strings.cpp
+C:\Users\257228\Desktop\C++\Vol2\24\Strings\Strings\Strings.cpp(208,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\24\Strings\Strings\Strings.cpp(219,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\24\Strings\Strings\Strings.cpp(222,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\24\Strings\Strings\Strings.cpp(251,15): warning C4018: '<': signed/unsigned mismatch
+  Strings.vcxproj -> C:\Users\257228\Desktop\C++\Vol2\24\Strings\Debug\Strings.exe
