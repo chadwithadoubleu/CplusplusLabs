@@ -1,0 +1,5 @@
+﻿  cards.cpp
+C:\Users\257228\Desktop\C++\Vol2\27\Cards\Cards\cards.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\27\Cards\Cards\cards.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\27\Cards\Cards\cards.cpp(173,20): warning C4018: '<': signed/unsigned mismatch
+  Cards.vcxproj -> C:\Users\257228\Desktop\C++\Vol2\27\Cards\Debug\Cards.exe

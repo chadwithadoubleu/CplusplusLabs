@@ -1,0 +1,5 @@
+﻿  date1.cpp
+  daysApart.cpp
+  Generating Code...
+daysApart.obj : error LNK2005: _main already defined in date1.obj
+C:\Users\257228\Desktop\C++\Vol2\28\28\Debug\28.exe : fatal error LNK1169: one or more multiply defined symbols found
