@@ -1,0 +1,3 @@
+﻿  double.cpp
+C:\Users\257228\Desktop\C++\Vol3\35\Double\Double\double.cpp(285,15): warning C4101: 'print': unreferenced local variable
+  Double.vcxproj -> C:\Users\257228\Desktop\C++\Vol3\35\Double\Debug\Double.exe
