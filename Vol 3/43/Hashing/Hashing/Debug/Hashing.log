@@ -1,0 +1,5 @@
+﻿  hashing.cpp
+C:\Users\257228\Desktop\C++\Vol3\43\Hashing\Hashing\hashing.cpp(43,6): warning C4101: 'id': unreferenced local variable
+C:\Users\257228\Desktop\C++\Vol3\43\Hashing\Hashing\hashing.cpp(43,10): warning C4101: 'inv': unreferenced local variable
+C:\Users\257228\Desktop\C++\Vol3\43\Hashing\Hashing\hashing.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+  Hashing.vcxproj -> C:\Users\257228\Desktop\C++\Vol3\43\Hashing\Debug\Hashing.exe
