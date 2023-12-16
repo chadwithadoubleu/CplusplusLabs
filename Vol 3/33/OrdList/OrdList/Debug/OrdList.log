@@ -1,0 +1,4 @@
+﻿  ordList.cpp
+C:\Users\257228\Desktop\C++\Vol3\33\OrdList\OrdList\ordList.cpp(271,15): warning C4101: 'print': unreferenced local variable
+C:\Users\257228\Desktop\C++\Vol3\33\OrdList\OrdList\ordList.cpp(171): warning C4715: 'removeNode': not all control paths return a value
+  OrdList.vcxproj -> C:\Users\257228\Desktop\C++\Vol3\33\OrdList\Debug\OrdList.exe
