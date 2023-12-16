@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\257228\Desktop\C++\Vol2\20\quadSort\quadSort\dice.h(37,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\257228\Desktop\C++\Vol2\20\quadSort\quadSort\Source.cpp(206,31): warning C4101: 'temp': unreferenced local variable
+  quadSort.vcxproj -> C:\Users\257228\Desktop\C++\Vol2\20\quadSort\Debug\quadSort.exe

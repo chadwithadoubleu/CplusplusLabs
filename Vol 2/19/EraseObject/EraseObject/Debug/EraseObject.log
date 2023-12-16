@@ -1,0 +1,5 @@
+﻿  eraseObject.cpp
+C:\Users\257228\Desktop\C++\Vol2\19\EraseObject\EraseObject\eraseObject.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\19\EraseObject\EraseObject\eraseObject.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\257228\Desktop\C++\Vol2\19\EraseObject\EraseObject\eraseObject.cpp(64,21): warning C4018: '<': signed/unsigned mismatch
+  EraseObject.vcxproj -> C:\Users\257228\Desktop\C++\Vol2\19\EraseObject\Debug\EraseObject.exe
