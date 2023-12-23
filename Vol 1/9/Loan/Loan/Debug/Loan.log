@@ -1,0 +1,3 @@
+﻿  loan.cpp
+C:\Users\257228\Desktop\C++\Vol1\9\Loan\Loan\loan.cpp(21,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Loan.vcxproj -> C:\Users\257228\Desktop\C++\Vol1\9\Loan\Debug\Loan.exe

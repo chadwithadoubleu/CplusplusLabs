@@ -1,0 +1,3 @@
+﻿  funLoops.cpp
+C:\Users\257228\Desktop\C++\Vol1\9\FunLoops\FunLoops\funLoops.cpp(24,14): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+  FunLoops.vcxproj -> C:\Users\257228\Desktop\C++\Vol1\9\FunLoops\Debug\FunLoops.exe
