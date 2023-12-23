@@ -1,0 +1,3 @@
+﻿  frogwalk2.cpp
+C:\Users\257228\Desktop\C++\Frogs\Frogs2\Frogs2\frog.h(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Frogs2.vcxproj -> C:\Users\257228\Desktop\C++\Frogs\Frogs2\Debug\Frogs2.exe

@@ -1,0 +1,6 @@
+﻿frogwalk2.obj : error LNK2005: "public: __thiscall frog::frog(void)" (??0frog@@QAE@XZ) already defined in frogwalk.obj
+frogwalk2.obj : error LNK2005: "public: int __thiscall frog::getPos(void)" (?getPos@frog@@QAEHXZ) already defined in frogwalk.obj
+frogwalk2.obj : error LNK2005: "public: int __thiscall frog::move(void)" (?move@frog@@QAEHXZ) already defined in frogwalk.obj
+frogwalk2.obj : error LNK2005: "public: int __thiscall frog::stepCount(void)" (?stepCount@frog@@QAEHXZ) already defined in frogwalk.obj
+frogwalk2.obj : error LNK2005: _main already defined in frogwalk.obj
+C:\Users\257228\Desktop\C++\Frogs\Debug\Frogs.exe : fatal error LNK1169: one or more multiply defined symbols found
