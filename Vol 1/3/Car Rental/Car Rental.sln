@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Car Rental", "Car Rental\Car Rental.vcxproj", "{6365E143-D2B8-42FD-B555-8FAECE3247BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6365E143-D2B8-42FD-B555-8FAECE3247BC}.Debug|x64.ActiveCfg = Debug|x64
+		{6365E143-D2B8-42FD-B555-8FAECE3247BC}.Debug|x64.Build.0 = Debug|x64
+		{6365E143-D2B8-42FD-B555-8FAECE3247BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{6365E143-D2B8-42FD-B555-8FAECE3247BC}.Debug|x86.Build.0 = Debug|Win32
+		{6365E143-D2B8-42FD-B555-8FAECE3247BC}.Release|x64.ActiveCfg = Release|x64
+		{6365E143-D2B8-42FD-B555-8FAECE3247BC}.Release|x64.Build.0 = Release|x64
+		{6365E143-D2B8-42FD-B555-8FAECE3247BC}.Release|x86.ActiveCfg = Release|Win32
+		{6365E143-D2B8-42FD-B555-8FAECE3247BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63D961DC-50DC-4A96-A1C3-1DF28EBDBCEB}
+	EndGlobalSection
+EndGlobal

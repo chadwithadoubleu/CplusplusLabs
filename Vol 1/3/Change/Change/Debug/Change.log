@@ -1,0 +1,3 @@
+﻿  change.cpp
+C:\Users\257228\Desktop\C++\Vol1\2\Change\Change\change.cpp(16,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Change.vcxproj -> C:\Users\257228\Desktop\C++\Vol1\2\Change\Debug\Change.exe
