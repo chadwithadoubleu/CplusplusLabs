@@ -1,0 +1,36 @@
+#include <fstream>
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+int main()
+{
+	ifstream infile;
+	ofstream outfile;
+
+	infile.open("lots of whitespace.txt", ios::in);
+	cout << "stuff";
+	outfile.open("()lots of whitespace.txt", ios::out);
+
+	char letter = '\n';
+	
+	do 
+	{
+		if (letter == '\n')
+		{
+			int count = 0;
+			bool spaces = true;
+			while (spaces)
+			{
+				infile.get(letter);
+				if (letter == ' ')
+					count++;
+				else
+					spaces = false;
+			}
+			outfile << endl << count << setw(2);
+		}
+		outfile << letter;
+	} while (infile.get(letter));
+}
